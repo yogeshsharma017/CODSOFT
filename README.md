@@ -1,1 +1,3 @@
-level 1 task 1 https://github.com/psylence07/CODSOFT/tree/main/portfolio
+#TASK 1 // Portfolio 
+#TASK 2 // To-do list 
+#TASK 3 // Calculator
